@@ -4,7 +4,6 @@ from fastapi.routing import APIRouter
 
 from api.handlers import user_router
 
-
 #########################
 # BLOCK WITH API ROUTES #
 #########################

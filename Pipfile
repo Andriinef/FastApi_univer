@@ -21,6 +21,7 @@ python-multipart = "==0.0.5"
 bcrypt = "==4.0.1"
 pydantic = {extras = ["email"], version = "*"}
 autopep8 = "*"
+mypy = "*"
 
 [dev-packages]
 black = "~=22.10.0"
